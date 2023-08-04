@@ -1,3 +1,3 @@
 # dataStructure-algorithm
 
-Exercises done by me when learning ds and algo several years ago
+Exercises done by me when learning data structure and algorithm.
